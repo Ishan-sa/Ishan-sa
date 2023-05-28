@@ -3,7 +3,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media0.giphy.com/media/ule4vhcY1xEKQ/giphy.gif?cid=ecf05e4778ej0kq3gienvkwuk61ne0hk0wzupukkllw2g8x1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250px></picture>
 
 <br>
 
