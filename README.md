@@ -7,9 +7,8 @@
 
 <br>
 
-- A passionate Front-end developer
+- A passionate Software developer
 - Like to learn new technologies
-- Currently learning Full-Stack Development
 - My [portfolio](https://ishansa.dev)
 - I’m currently open to collaborate on any fullstack projects👨🏻‍💻
 
