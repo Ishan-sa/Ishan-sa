@@ -1,70 +1,52 @@
-<h1 align="center"><b>Hi , I'm Ishan. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hey, I'm Ishan 👋
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+**Full-Stack Developer** based in Vancouver, BC — building web apps, automation workflows, and the occasional SaaS.
 
-<picture> <img align="right" src="https://media0.giphy.com/media/ule4vhcY1xEKQ/giphy.gif?cid=ecf05e4778ej0kq3gienvkwuk61ne0hk0wzupukkllw2g8x1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width = 250px></picture>
+---
 
-<br>
+### What I'm Working With
 
-- A passionate Software developer
-- Like to learn new technologies
-- My [portfolio](https://ishansa.dev)
-- I’m currently open to collaborate on any fullstack projects👨🏻‍💻
+**Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+**Backend & Data**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Tech Stack</b>
-<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-    
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Prisma](https://img.shields.io/badge/prisma-EDF0F9?style=for-the-badge&logo=prisma&logoColor=black) 
-![Wordpress](https://img.shields.io/badge/wordpress-1F6F93?style=for-the-badge&logo=wordpress&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-1A73E8?style=for-the-badge&logo=firebase&logoColor=%F4C43D) 
+**Automation & Cloud**
 
-    
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<br>
+---
 
+### Recent Builds
+
+🧾 **Receipty** — AI-powered receipt management with Google Drive + Document AI integration
+
+⚡ **Business Automations** — Payment reminders, email processing, expense tracking workflows
+
+🔐 **Client Portals** — Role-based dashboards with file management and real-time updates
+
+---
+
+### Currently Exploring
+
+Building SaaS products that solve real problems for small business owners. Always down to collaborate on full-stack projects.
+
+<p>
+  <a href="https://ishansa.dev">
+    <img src="https://img.shields.io/badge/Portfolio-ishansa.dev-000?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-<br>
-
-## <img src="https://media2.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"><b> Currently Learning</b>
-
-
-<br>
-
- ![Svelte](https://img.shields.io/badge/Svelte-F73C00.svg?style=for-the-badge&logo=svelte&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) 
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div style="display: flex; justify-content: center; gap: 10px">
-  <a href="https://github.com/Ishan-sa/">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ishan-sa&show_icons=true&locale=en" alt="ishan-sa" />
-  </a>
-  <a href="https://github.com/Ishan-sa/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishan-sa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=2F80ED&icon_color=272727&text_color=#434D58&bg_color=0,000000,130F40" width="350" alt="Ishan-sa"/>
-  </a>
-</div>
-
-
-
-
