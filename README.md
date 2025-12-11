@@ -46,7 +46,7 @@ Building SaaS products that solve real problems for small business owners. Alway
   <a href="https://ishansa.dev">
     <img src="https://img.shields.io/badge/Portfolio-ishansa.dev-000?style=for-the-badge" alt="Portfolio" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:ishansach19@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
