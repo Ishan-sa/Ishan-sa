@@ -1,6 +1,6 @@
 # Hey, I'm Ishan 👋
 
-**Full-Stack Developer** based in Vancouver, BC — building web apps, automation workflows, and the occasional SaaS.
+**Software Developer** based in Vancouver, BC — building web apps, automation workflows, and the occasional SaaS.
 
 ---
 
