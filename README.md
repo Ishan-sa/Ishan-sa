@@ -1,52 +1,37 @@
-# Hey, I'm Ishan 👋
+<div align="center">
 
-**Software Developer** based in Vancouver, BC — building web apps, automation workflows, and the occasional SaaS.
+# Ishan Sachdeva
 
----
+**Software Developer · Vancouver, BC**
 
-### What I'm Working With
+I build web apps, automation systems, and small SaaS products.
+Currently focused on tools for small businesses — expense automation, internal portals, and AI-assisted workflows on self-hosted n8n.
 
-**Frontend**
+[Portfolio](https://ishansa.dev) &nbsp;·&nbsp; [Email](mailto:ishansach19@gmail.com)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Automation & Cloud**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
 
 ---
 
-### Recent Builds
+### Stack
 
-🧾 **Receipty** — AI-powered receipt management with Google Drive + Document AI integration
+<div align="center">
 
-⚡ **Business Automations** — Payment reminders, email processing, expense tracking workflows
+![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,python,prisma,postgres,firebase,docker,gcp,vercel,cloudflare&perline=13)
 
-🔐 **Client Portals** — Role-based dashboards with file management and real-time updates
+</div>
 
 ---
 
-### Currently Exploring
+### Now
 
-Building SaaS products that solve real problems for small business owners. Always down to collaborate on full-stack projects.
+Building expense + automation tooling for small businesses, shipping small SaaS experiments, and writing about it as I go.
+Off the clock: cricket, markets, and over-engineering my coffee order into a Telegram bot.
 
-<p>
-  <a href="https://ishansa.dev">
-    <img src="https://img.shields.io/badge/Portfolio-ishansa.dev-000?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="mailto:ishansach19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan-sa&bg_color=ffffff&color=1f2937&line=38B2AC&point=1f2937&area=true&hide_border=true" alt="contribution graph" />
+
+</div>
